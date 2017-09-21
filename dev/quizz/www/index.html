@@ -1,0 +1,18 @@
+<head>
+<title>Quizzo</title>
+<link rel="stylesheet" type="text/css" href="index.css" />
+<script type="text/javascript" src="index.js"></script>
+</head>
+<body onload="javascript:init()">
+	<div class="elementDiv" id="themeDiv"><p>default theme</p></div>
+	<div id="idDiv"><p>default id</p></div>
+	<div id="questionDiv"><p>default question</p></div>
+	<div id="reponseADiv" onclick="javascript:xhr_sendreponse('a')"><p>default reponse A</p></div>
+	<div id="reponseBDiv" onclick="javascript:xhr_sendreponse('b')"><p>default reponse B</p></div>
+	<div id="reponseCDiv" onclick="javascript:xhr_sendreponse('c')"><p>default reponse C</p></div>
+	<div id="reponseDDiv" onclick="javascript:xhr_sendreponse('d')"><p>default reponse D</p></div>
+	<div id="indiceDiv"><p>default indice</p></div>
+	<div class="elementDiv" id="reponseDiv" onclick="javascript:xhr_sendreponse('d')"><p>repondre d</p></div>
+	<div class="elementDiv" id="reponseDiv" onclick="javascript:xhr_getreponses()"><p>reponses</p></div>
+	<div class="elementDiv" id="mapDiv"><a href='map.html'>map</a></div>
+</body>

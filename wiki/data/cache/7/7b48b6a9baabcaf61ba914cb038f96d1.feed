@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://obriand.fr/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://obriand.fr/wiki/feed.php">
+        <title>obriand wiki</title>
+        <description></description>
+        <link>http://obriand.fr/wiki/</link>
+        <image rdf:resource="http://obriand.fr/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2017-08-14T17:13:31+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://obriand.fr/wiki/doku.php?id=liste_bagages_ete&amp;rev=1499182817&amp;do=diff"/>
+                <rdf:li rdf:resource="http://obriand.fr/wiki/doku.php?id=natation_ete_2017&amp;rev=1501858522&amp;do=diff"/>
+                <rdf:li rdf:resource="http://obriand.fr/wiki/doku.php?id=new_york_2017&amp;rev=1502704971&amp;do=diff"/>
+                <rdf:li rdf:resource="http://obriand.fr/wiki/doku.php?id=poulailler&amp;rev=1495206109&amp;do=diff"/>
+                <rdf:li rdf:resource="http://obriand.fr/wiki/doku.php?id=start&amp;rev=1501853885&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://obriand.fr/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>obriand wiki</title>
+        <link>http://obriand.fr/wiki/</link>
+        <url>http://obriand.fr/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://obriand.fr/wiki/doku.php?id=liste_bagages_ete&amp;rev=1499182817&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-04T17:40:17+02:00</dc:date>
+        <title>liste_bagages_ete</title>
+        <link>http://obriand.fr/wiki/doku.php?id=liste_bagages_ete&amp;rev=1499182817&amp;do=diff</link>
+        <description>Liste des bagages pour l'été
+
+	*  Papiers
+		*  Carte d'identité, carte sécu, permis de conduire, assurance
+		*  Carte bancaire
+		*  Carnet de chèques
+		*  Chèques vacances
+		*  Copie des resas (camping, hotels, gites)
+
+	*  Vêtements Olivier
+		*</description>
+    </item>
+    <item rdf:about="http://obriand.fr/wiki/doku.php?id=natation_ete_2017&amp;rev=1501858522&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-04T16:55:22+02:00</dc:date>
+        <title>natation_ete_2017</title>
+        <link>http://obriand.fr/wiki/doku.php?id=natation_ete_2017&amp;rev=1501858522&amp;do=diff</link>
+        <description>Saint Jean de Monts
+
+	*  Club Mickey Goelands : &lt;http://clubdeplage.fr/piscine/&gt; 
+
+5 leçons = 75 euros, 1 leçon = 18 euros
+
+30 min, individuel avec MNS en confiance, pas besoin de réserver, y'a de la place mais s'arrete le 30 Aout
+
+piscine chaude 30dg filtrée couverte
+
+	*  Centre aquatique Oceabul</description>
+    </item>
+    <item rdf:about="http://obriand.fr/wiki/doku.php?id=new_york_2017&amp;rev=1502704971&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-14T12:02:51+02:00</dc:date>
+        <title>new_york_2017</title>
+        <link>http://obriand.fr/wiki/doku.php?id=new_york_2017&amp;rev=1502704971&amp;do=diff</link>
+        <description>New York 2017
+
+----------
+
+	*  Formalités
+
+Passeport : demande en mairie faite 1er Aout 2017
+
+Formulaire US : ESTA &lt;https://esta.cbp.dhs.gov/esta/&gt;
+
+1. Présenter un passeport biométrique ou électronique en cours de validité. Conformément à la loi américaine, la validité du passeport d'un ressortissant étranger doit couvrir une période de 6 mois au-delà de la date prévue pour son départ des Etats-Unis à l'exception des pays faisant partie du</description>
+    </item>
+    <item rdf:about="http://obriand.fr/wiki/doku.php?id=poulailler&amp;rev=1495206109&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-05-19T17:01:49+02:00</dc:date>
+        <title>poulailler</title>
+        <link>http://obriand.fr/wiki/doku.php?id=poulailler&amp;rev=1495206109&amp;do=diff</link>
+        <description>La page poulailler</description>
+    </item>
+    <item rdf:about="http://obriand.fr/wiki/doku.php?id=start&amp;rev=1501853885&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-04T15:38:05+02:00</dc:date>
+        <title>start</title>
+        <link>http://obriand.fr/wiki/doku.php?id=start&amp;rev=1501853885&amp;do=diff</link>
+        <description>Bienvenu sur mon wiki
+
+etherpad
+
+obriand.fr
+
+liste_bagages_ete
+
+new_york_2017
+
+natation_ete_2017</description>
+    </item>
+</rdf:RDF>

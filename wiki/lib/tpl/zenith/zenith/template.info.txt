@@ -1,0 +1,7 @@
+base     zenith
+author   Zatalyz
+email    zatalyz@liev.re
+date     2017-03-03
+name     Zen DokuWiki Template
+desc     Zen DokuWiki default
+url      https://github.com/Zatalyz/dokuwiki-template-zenith
