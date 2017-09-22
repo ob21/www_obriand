@@ -8,7 +8,7 @@
 		<meta name="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 		<link rel="stylesheet" href="..\bootstrap\css\bootstrap.min.css">
 		<link rel="stylesheet" href="grid.css">
-		<title>Mes liens</title>    
+		<title>voilier brandi</title>    
 	</head>
  
 <body>
