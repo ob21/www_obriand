@@ -12,8 +12,11 @@
 	</head>
  
 <body>
+	<?php			
+		include 'auth.php';	
+	?>
     <div class="container">
-		  <?php				  				 
+		  <?php				   		   
 		   include 'database.php';
 		   $pdo = Database::connect();
 		   $sql = 'SELECT * FROM links ORDER BY id DESC';

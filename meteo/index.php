@@ -15,7 +15,15 @@
 		  <?php				  				 
 		   include 'database.php';
 		   $pdo = Database::connect();
-		   $sql = 'SELECT DISTINCT city FROM meteo ORDER BY city';
+		   $sql1 = 'SELECT MAX(date) FROM meteo';
+		   foreach ($pdo->query($sql1) as $row) {
+		   }
+		   
+		   $max_date = substr_replace($row[0],'%',-2);
+		   //echo "<font color='#FFFFFF'>max date = ".$max_date."</font>";
+		   
+		   $sql2 = 'SELECT city,temp,icon,date FROM meteo WHERE date LIKE \''.$max_date.'\'';
+		   //echo "<font color='#FFFFFF'>sql2 = ".$sql2 ."</font>";
 		   
 		   echo "<b><a href='add_city.php'><font color='#FFFFFF'>Ajouter</font></a></b>";
 		   echo "<b>&nbsp;&nbsp;</b>";
@@ -25,9 +33,15 @@
 		   
 		   echo "<div class='row'>";	
 		   
-		   foreach ($pdo->query($sql) as $row) {									
-				echo "<div class='col-md-4' style='background-color:grey;'>";				
-				echo "<br/><a href='city.php?city=".$row['city']."'><b><font color='#FFFFFF'>".$row['city']."</font></b></a>";
+		   foreach ($pdo->query($sql2) as $row) {		
+				echo "<div class='col-md-4' style='background-color:grey;'>";	
+				//echo "<font color='#FFFFFF'>icon = ".$row['icon']."</font>";	
+				//echo "<font color='#FFFFFF'>date = ".$row['date']."</font><br/>";						
+				echo "<a href='city.php?city=".$row['city']."'>";
+				echo "<b><font size='4' color='#FFFFFF'>".$row['city']."</font></b>";				
+				echo "&nbsp;<img src='http://openweathermap.org/img/w/".$row['icon'].".png'/>";
+				echo "&nbsp;<font color='#FFFFFF'>".$row['temp']."°C</font>";
+				echo "</a>";
 				echo "</div><!--col-->";					
 		   }
 				

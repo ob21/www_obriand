@@ -53,7 +53,7 @@
 			echo "<font color='#FFFFFF'>".$row['date']."</font>";
 			echo "</td>";
 			echo "<td>";
-			echo "&nbsp;&nbsp;&nbsp;<font color='#FFFFFF'>".$row['temp']." °C"."</font>";
+			echo "&nbsp;&nbsp;&nbsp;<font color='#FFFFFF'>".$row['temp']." °C ".$row['icon']."</font>";
 			echo "</td>";
 			echo "<td>";
 			echo "&nbsp;&nbsp;&nbsp;<img src='http://openweathermap.org/img/w/".$row['icon'].".png'/>";
