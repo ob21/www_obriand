@@ -1,1 +1,12 @@
 SetEnv PHP_VER 5
+
+# SET CSP HEADER
+<IfModule mod_headers.c>
+	Header set Content-Security-Policy "upgrade-insecure-requests"
+</IfModule>
+
+# REDIRECTION TO HTTPS
+# https://wiki.apache.org/httpd/RewriteHTTPToHTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
