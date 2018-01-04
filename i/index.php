@@ -13,11 +13,19 @@
  
 <body>
 	<?php			
-		include 'auth.php';	
+		if($_SERVER['SERVER_NAME']!='localhost') {
+		    include 'auth.php';
+		}
 	?>
     <div class="container">
 		  <?php				   		   
-		   include 'database.php';
+		   if($_SERVER['SERVER_NAME']=='localhost') {
+		       echo "dev mode."."<p/>";
+		       include 'database_dev.php';
+		   } else {
+		       include 'database.php';
+		   }
+		   
 		   $pdo = Database::connect();
 		   $sql = 'SELECT * FROM links ORDER BY id DESC';
 		   
