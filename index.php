@@ -1,3 +1,3 @@
 <?php
-header("Location: http://obriand.fr/i/");
+header("Location: ./i/");
 ?> 
