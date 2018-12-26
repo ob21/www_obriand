@@ -1,0 +1,11 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1518786601;s:8:"modified";i:1519751839;}s:7:"creator";s:14:"olivier briand";s:4:"user";s:7:"obriand";s:11:"last_change";a:8:{s:4:"date";i:1519751839;s:2:"ip";s:12:"2.14.109.111";s:4:"type";s:1:"E";s:2:"id";s:19:"liste_bagages_hiver";s:4:"user";s:4:"2103";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:15;}s:11:"contributor";a:7:{s:7:"obriand";s:14:"olivier briand";i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";i:3;s:7:"olivier";i:4;s:7:"olivier";i:5;s:7:"olivier";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:267:"Liste des bagages pour l'hiver
+
+	*  Papiers
+		*  carte d'identité, carte sécu, permis de conduire, assurance
+		*  carte bancaire
+		*  argent liquide
+		*  carnet de chèques
+		*  chèques vacances
+		*  copie des resas (camping, hotels, gites)
+
+	*  Vêtements Olivier";}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1518786601;s:8:"modified";i:1519751839;}s:7:"creator";s:14:"olivier briand";s:4:"user";s:7:"obriand";s:11:"last_change";a:8:{s:4:"date";i:1519751839;s:2:"ip";s:12:"2.14.109.111";s:4:"type";s:1:"E";s:2:"id";s:19:"liste_bagages_hiver";s:4:"user";s:4:"2103";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:15;}s:11:"contributor";a:7:{s:7:"obriand";s:14:"olivier briand";i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";i:3;s:7:"olivier";i:4;s:7:"olivier";i:5;s:7:"olivier";}}}

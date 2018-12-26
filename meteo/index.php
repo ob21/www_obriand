@@ -19,7 +19,7 @@
 		   foreach ($pdo->query($sql1) as $row) {
 		   }
 		   
-		   $max_date = substr_replace($row[0],'%',-2);
+		   $max_date = substr_replace($row[0],'%',-6);
 		   //echo "<font color='#FFFFFF'>max date = ".$max_date."</font>";
 		   
 		   $sql2 = 'SELECT city,temp,icon,date FROM meteo WHERE date LIKE \''.$max_date.'\'';
@@ -28,6 +28,8 @@
 		   echo "<b><a href='add_city.php'><font color='#FFFFFF'>Ajouter</font></a></b>";
 		   echo "<b>&nbsp;&nbsp;</b>";
 		   echo "<b><a href='delete_city.php'><font color='#FFFFFF'>Supprimer</font></a></b>";
+		   echo "<b>&nbsp;&nbsp;</b>";
+		   echo "<b><a href='test_city.php'><font color='#FFFFFF'>Tester</font></a></b>";
 		   echo "<b>&nbsp;&nbsp;</b>";
 		   echo "<a href='get_cities.php'><font color='#333333'>Lister</font></a>";
 		   

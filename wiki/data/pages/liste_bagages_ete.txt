@@ -16,7 +16,7 @@ Liste des bagages pour l'été
     - ceinture tissu
     - Crocs
     - Chaussures baskets
-    - Chaussures rando (+ hautes oui!)
+    - Chaussures rando (+ hautes ?)
     - Polaire
     - Veste Softshell
     - casquette
@@ -28,8 +28,8 @@ Liste des bagages pour l'été
     - 1 slip de bain
     - lunettes de bain
     - 1 serviette de bain
-    - tee-shirt uv
-    - mini combi
+    - tee-shirt uv (+)
+    - mini combi (-)
     - lunettes de bain
     - chaussures bain
   * Trousse de toilette Olivier
@@ -41,6 +41,7 @@ Liste des bagages pour l'été
     - Dentifrice
     - Brosse a dent
   * Trousse de soin
+    - alcool 90
     - brumisateur
     - crème solaire
     - biafine
@@ -70,15 +71,16 @@ Liste des bagages pour l'été
     - Lunettes de soleil plastique avec attache avec boitier
     - Couteau suisse
     - Pince multi-outils
+    - Scotch bricolage (double face, large, étroit et avec armature)
     - Lacets rechange
-    - hamac
+    - Hamac ?
   * Accessoires loisirs voiture
     - Coffre-toit
     - Chaîne coffre-toit avec clé
     - Seaux/pelles
     - Bateau gonflable + pompe
     - Bouées + gilet
-    - planchette + chaussures de bain enfants + delphine
+    - Petite planche + chaussures de bain enfants + Delphine
     - Glacière + glace
     - Boules de pétanque
 

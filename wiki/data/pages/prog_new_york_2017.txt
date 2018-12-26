@@ -4,15 +4,23 @@
 
 Voiture Verneuil-CDG avec depose sur parking payant : départ 5h, durée 2h
 
-Enregistrement Paris-CDG 8h, décollage Paris-CDG 11h, vol (8h40), atterissage NY-JFK 13h40, recuperation valises
+Enregistrement Paris-CDG 8h, vol AA45 à 11h, décollage Paris-CDG 11h, vol (8h40), atterissage NY-JFK 13h40, recuperation valises
 
-Airtrain JFK Red (arrêt Jamacia Station) puis Longbeach (metro) 6 euros (52 min) arrêt Pennsylvania Station 34th street (Jamaica Station puis LIRR) / taxi 60 dollars (http://taximeter.com)
+Airtrain JFK Red (arrêt Jamaica Station) puis Longbeach (metro) 6 euros (52 min) arrêt Pennsylvania Station 34th street (Jamaica Station puis LIRR) / taxi 60 dollars (http://taximeter.com)
 
-Hotel Holiday Inn Express Times Square South (60 W 36th Street) à pied avec paiement sur place, dépose bagage et petit repos à l'hotel (16h)
+<color #ff7f27>Hotel Holiday Inn Express Times Square South</color> (60 W 36th Street) à pied avec paiement sur place, dépose bagage et petit repos à l'hotel (16h) (pt-dejs compris, ch. king-size non-fumeur)(resa=1715079120, code=0199) (1285 $ + 189.50 $ + 3.50 $)
 
 ==== Après-midi ====
 
-Petite balade à 16h30-17h30 : prendre Broadway à pieds et aller jusqu'à TimesSquare (10 min) puis M&M's World revenir par la 6th avenue avec les buildings (30-40 min) à l'hotel pas loin de l'Empire State Building
+Petite balade à 16h30-17h30 : prendre Broadway à pieds et aller jusqu'à <color #ed1c24>TimesSquare</color> (10 min) puis M&M's World revenir par la 6th avenue avec les buildings (30-40 min) à l'hotel pas loin de l'Empire State Building
+
+iPad air 2 Wifi 32 Go (Apple Store) = 358$ (329$+ 8,4% sale taxes) = 304€ (au lieu de 409)
+
+iPad air 2 Cellular 32 Go (Apple Store) = 499$ (459$+ 8,4% sale taxes) = 424€ (au lieu de 569)
+
+iPad mini 4 Wifi 128 Go = 434$ (399$ + 8.4%) = 369€ (au lieu de 489)
+
+iPhone SE 32 Go = 379$ (349$ + 8.4%) = 322€ (au lieu de 419)
 
 **manger** à l'hotel ou auprès (MacDo ou sandwich Pure and Fresh)
 
@@ -20,25 +28,29 @@ Petite balade à 16h30-17h30 : prendre Broadway à pieds et aller jusqu'à Times
 
 Repos ! 19h manger et se coucher
 
-====== dimanche 29 : NY C.Park/Boat= Central Park, Circle Line, Top of the Rocks ======
+====== dimanche 29 : NY C.Park/Bateau = Central Park, Circle Line, Top of the Rocks ======
 
  ==== Matin ====
  
-Balade dans Central Park (2h), y aller en marchant
+Balade dans <color #ff7f27>Central Park</color> (2h), y aller en marchant
 
 Metro A ou C jusqu'à 50 Street Subway
 
-Traverser à pieds Hell's Kitchen jusqu'au Pier 83 (studios TV qui donnent dans la rue ie CBS, Daily Show)
+Si on a le temps traverser à pieds Hell's Kitchen jusqu'au Pier 83 (studios TV qui donnent dans la rue ie CBS, Daily Show) sinon prendre un bus.
 
-//si possible// Metropolitan Museum "MET" **[Pass]** permet éviter files d'attente (+ The Cloisters ?) avec son rooftop (1h30), on peut manger dedans "State Grill and Bar" situé au 1er étage
-
-**manger** près du Pier 83 un picnic
+**manger** pas trop loin du Pier 83 (sandwich à emporter ?)
 
 ==== Après-midi ====
 
-prendre le bateau Circle Line Landmarks Cruise **[Pass]** à Pier 83 à __12h30__ (durée 1h30-2h) au guichet VIP (45 min avant) et faire le tour de Manhattan en passant près de la Statue de la Liberté et admirer la vue avec les buildings (boissons et encas à bord, on est autorisé à prendre les nôtres) => prendre le billet en ligne la veille (app Circle Line Skyline Navigator)
+prendre le bateau <color #ed1c24>Circle Line Landmarks Cruise</color> **[Pass]** à Pier 83 à __12h30__ (durée 1h30-2h) au guichet VIP (__45 min avant !!__) et faire le tour de Manhattan en passant près de la Statue de la Liberté et admirer la vue avec les buildings (boissons et encas à bord, on est autorisé à prendre les nôtres) => prendre le billet en ligne la veille (app Circle Line Skyline Navigator)
 
 https://www.circleline42.com/
+
+//Already have a pass and looking to reserve or book tickets?
+
+Please note that pass holders are not able to reserve cruise tickets on circleline42.com; however, all pass holders keep the same great offerings and privileges provided by their particular pass, as well as enjoying the same flexibility of a Circle Line Flex Ticket. 
+
+Pass partner customers please arrive 45 minutes prior to the cruise you wish to go on and bring your pass to the Box Office to exchange it for a boarding pass.//
 
 Prendre bus M42 jusqu'à Rockfeller Center (20 min), éventuellement faire du shopping (Lego, Levis...)
 
@@ -48,7 +60,7 @@ Prendre bus M42 jusqu'à Rockfeller Center (20 min), éventuellement faire du sh
 
 ==== Soirée/fin de journée ====
 
-admirer la vue depuis le Top of the Rock **[Pass]** (Rockfeller Center) avec les lumières de la ville et sur Central Park : app mobile Viewfinder (Wifi gratuit sur place) 
+monter au <color #ff7f27>__Top of the Rock__</color> **[Pass]** (Rockfeller Center, 8h-23h, Observation Deck) avec les lumières de la ville et sur Central Park : app mobile Viewfinder (Wifi gratuit sur place) 
 
 Essayer de prendre les billets avant : si attente pour l'observatoire, aller à la visite du Rockfeller Center 75 min
 
@@ -56,11 +68,11 @@ Sixtyfive Bar at Rainbow Room avec terrasse panoramique pour boire un verre lund
 
 Revenir à pieds à l'hotel sur 6th avenue
 
-====== lundi 30 : NY South = 9/11 Memorial, Battery Park, Wall Street, Brooklyn Bridge (traversée jusqu'à Brooklyn), Chinatown, Little Italy ======
+====== lundi 30 : NY South = 9/11 Memorial, Battery Park, Wall Street, Brooklyn Bridge, Chinatown/Little Italy ======
 
 ==== Matin ====
 
-Metro (1,2,3) jusqu'au 9/11 Memorial **[Pass]**, One World Observatory (vue en haut, 1h30) puis metro Battery Park avec vue sur Statue de la Liberté, Wall Street et son taureau, bateau DUMBO pour Brooklyn park
+Metro (1,2,3) jusqu'au 9/11 Memorial **[Pass]**, <color #ed1c24>One World Observatory</color> (ouvre à 9h, vue en haut, durée 1h30, 34 $, reserver jour+heure) puis metro Battery Park avec vue sur Statue de la Liberté, Wall Street et son taureau, ferry East River (Pier 11) pour Brooklyn park (Wall St => Dumbo)
 
 //Note// : magasin Century 21 près Memorial
 
@@ -68,7 +80,7 @@ Metro (1,2,3) jusqu'au 9/11 Memorial **[Pass]**, One World Observatory (vue en h
 
 ==== Après-midi ====
 
-Traverser Brooklyn Bridge à pied puis aller vers Chinatown, Little Italy, Soho, retour metro 
+<color #ff7f27>Traverser Brooklyn Bridge</color> à pied puis aller vers Chinatown, Little Italy ?, Soho ?, retour metro 
 
 //Note// : Victoria's Secret près de l'hotel
 
@@ -76,21 +88,22 @@ Traverser Brooklyn Bridge à pied puis aller vers Chinatown, Little Italy, Soho,
 
 //Note// : John’s Pizzeria (Bleeker Street)
 
-**manger** dans Little Italy ou près hotel
+**manger** près hotel
 
+//Note// : The View New York Marriott Marquis (resto-bar tournant)
 ==== Soirée ====
 
-Boire un verre (Keg Room ou Monarch RoofTop Bar près hotel ? ou Splyglass ou Top of the Strand) et dodo
+Boire un verre à un <color #ff7f27>RoofTop</color> (Keg Room ou Monarch RoofTop Bar près hotel ? ou Splyglass ou Top of the Strand) et dodo
 
-====== mardi 31 : NY Alternative = MET, High Line, Greenwich Village, Chelsea Market, Union Square Greenmarket, dernier shopping ======
+====== mardi 31 : NY Alternative = MET, High Line, Greenwich Village, Chelsea Market, Union Square Greenmarket, shopping ======
 
 ==== Matin ==== 
 
-metro A ou C jusqu'à Museum of Natural History puis marcher jusqu'à MET
+metro A ou C jusqu'à Museum of Natural History puis marcher en traversant Central Park jusqu'à MET
 
-Metropolitan Museum “MET” [Pass] permet éviter files d'attente (+ The Cloisters ?) avec son rooftop (1h30) 
+Metropolitan Museum “<color #ff7f27>MET</color>” (ouvre à 10h), visite rapide, **[Pass]** permet éviter files d'attente, aller au rooftop pour vue sur Central Park (durée 1h30) 
 
-puis metro A ou C de Museum of Natural History jusqu'à Penn Station
+traverser <color #ed1c24>Central Park</color> puis metro A ou C de Museum of Natural History jusqu'à Penn Station
 
 **manger** près de Macy's (centre commercial, 10% pour les touristes)
 
@@ -104,20 +117,20 @@ Revenir en metro 1 (11min) dans Midtown pour la parade Halloween : passer au mag
 
 ==== Fin de journée / soirée ====
  
-Parade NYC Village Halloween 19h sur 6th avenue entre Spring St et 22nd Street (on doit être déguisés en principe)
+<color #ff7f27>Parade NYC Village Halloween</color> 19h sur 6th avenue entre Spring St et 22nd Street (on doit être déguisés en principe)
 
 ====== mercredi 1 : NY Midtown = Empire State building, Public Library, Madison/5th avenue et shopping ======
 
 
 ==== Matin ====
  
-Empire State Building **[Pass]** entre 8h et 10h mieux (telecharger app mobile guide avant), Flatiron building (?), Public Library, Grand Central Station, Chrysler building, Madison avenue, Saint Patrick Cathedral, 5th avenue
+<color #ed1c24>Empire State Building</color> **[Pass]** (ouvre 8h) entre 8h et 10h mieux (telecharger app mobile guide avant), Flatiron building (?), Public Library, Grand Central Station, Chrysler building, Madison avenue, Saint Patrick Cathedral, 5th avenue
 
-**manger** du côté de Rockfeller Center, près de magasins
+**manger** dans le coin, près de magasins
 
 ==== Après-midi ====
 
-Temps libre et shopping/souvenirs du côté du Rockfeller Center et 5-6th avenues (Apple store, Levi's store, Lego store, M&M store...)
+<color #ff7f27>Temps libre et shopping</color>/souvenirs : Apple store, Levi's store, Lego store, M&M store...
 
 **manger** dans le coin (6th avenue) dans un Steackhouse ? (Keens Steakhouse+++ près hotel)
 
@@ -129,10 +142,12 @@ Empire State Building **[Pass]** (2 entrée gratuite le soir après 22h)
 
 ==== Matin ====
  
-Petit tour à Bryant Park et près de l'Empire State Building
+Bagages, petit tour à Bryant Park (Public Library) et près de l'Empire State Building
 
 ==== Après-midi ====
 
 **manger** à 12h près de Pennsylvannia Station (34th street) : Best Bagel Coffee ou Andrew's Coffee ou NY Pizza Suprema
 
 metro + AirTrain à 13h pour JFK
+
+<color #ed1c24>Décollage à 17h45</color> : vol AA44 à 17h45 pour Paris CDG direct

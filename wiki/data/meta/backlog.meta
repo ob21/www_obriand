@@ -1,0 +1,13 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1522400817;s:8:"modified";i:1535026152;}s:7:"creator";s:7:"olivier";s:4:"user";s:4:"2103";s:11:"last_change";a:8:{s:4:"date";i:1535026152;s:2:"ip";s:11:"161.106.4.5";s:4:"type";s:1:"E";s:2:"id";s:7:"backlog";s:4:"user";s:4:"2103";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:79;}s:11:"contributor";a:5:{i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";i:3;s:7:"olivier";i:4;s:7:"olivier";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:366:"- authentification automatique par token à l'ouverture d'un lien
+
+- création de liens de type note (sans wiki)
+
+- stats meteo par ville
+
+- graphs temperature meteo par ville
+
+<https://jpgraph.net/features/src/show-example.php?target=new_line1.php>
+<https://www.numelion.com/creer-un-graphique-en-php.html>
+<http://www.pchart.net/>
+
+<http://fdwocbsnity6vzwd.onion/>";}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1522400817;s:8:"modified";i:1535026152;}s:7:"creator";s:7:"olivier";s:4:"user";s:4:"2103";s:11:"last_change";a:8:{s:4:"date";i:1535026152;s:2:"ip";s:11:"161.106.4.5";s:4:"type";s:1:"E";s:2:"id";s:7:"backlog";s:4:"user";s:4:"2103";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:79;}s:11:"contributor";a:5:{i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";i:3;s:7:"olivier";i:4;s:7:"olivier";}}}

@@ -1,0 +1,13 @@
+Gérer ses cookies
+
+http://www.youronlinechoices.com/fr/controler-ses-cookies/
+
+https://www.lemagit.fr/definition/Authentification-a-double-facteur
+
+Qu'est-ce qu'un facteur d'authentification ?
+
+Un facteur d'authentification est une catégorie d'informations d'identification utilisée pour la vérification d'une identité.
+
+Les trois catégories les plus courantes sont souvent décrites comme suit : une chose que vous connaissez (le facteur mémoriel), une chose que vous possédez (le facteur matériel) et une chose que vous êtes (le facteur corporel).
+
+Pour les systèmes plus exigeants en termes de sécurité, le lieu (géolocalisation) et l'heure sont parfois ajoutés comme quatrième et cinquième facteurs.

@@ -24,24 +24,25 @@
 		$pass = $_POST['pass'];
         $label = $_POST['label'];
         $url = $_POST['url'];
+		$tags = $_POST['tags'];
          
         // validate input
         $valid = true;
         if (empty($label)) {
-            $labelError = 'Please enter label';
+            $labelError = 'Entrez un label';
             $valid = false;
         }
 		
 		if ($pass!='2103') {
-            $passError = 'Please enter a valid pass';
+            $passError = 'Entrez un mot de passe valide';
             $valid = false;
         }
          
         if (empty($url)) {
-            $urlError = 'Please enter url';
+            $urlError = 'Entrez une url';
             $valid = false;
         } else if ( !filter_var($url,FILTER_VALIDATE_URL) ) {
-            $urlError = 'Please enter a valid url';
+            $urlError = 'Entrez une url valide';
             $valid = false;
         }
          
@@ -49,9 +50,9 @@
         if ($valid) {
             $pdo = Database::connect();
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            $sql = "UPDATE links  set label = ?, url = ? WHERE id = ?";
+            $sql = "UPDATE links  set label = ?, url = ?, tags = ? WHERE id = ?";
             $q = $pdo->prepare($sql);
-            $q->execute(array($label,$url, $id));
+            $q->execute(array($label,$url,strtolower($tags), $id));
             Database::disconnect();
             header("Location: index.php");
         }
@@ -64,6 +65,7 @@
         $data = $q->fetch(PDO::FETCH_ASSOC);
         $label = $data['label'];
         $url = $data['url'];
+		$tags = $data['tags'];
         Database::disconnect();
     }
 ?>
@@ -85,7 +87,7 @@
                 <div class="span10 offset1">
                     <div class="row">
 						<div class="col-md-4">
-							<h3>Update a link</h3>
+							<h3>Mettre a jour un lien</h3>
 						</div>
                     </div>
              
@@ -111,6 +113,12 @@
 									<?php endif;?>
 								</div>
 							  </div>
+							  <div class="control-group">
+								<label class="control-label">tags (separes par virgule)</label>
+								<div class="controls">
+									<input name="tags" type="text" placeholder="tags" value="<?php echo !empty($tags)?$tags:'';?>">
+								</div>
+							  </div>
 							  <div class="control-group <?php echo !empty($passError)?'error':'';?>">
 								<label class="control-label">pass</label>
 								<div class="controls">
@@ -121,8 +129,8 @@
 								</div>
 							  </div>
 							  <div class="form-actions">
-								  <button type="submit" class="btn btn-success">Update</button>
-								  <a class="btn btn-default" href="index.php">Back</a>
+								  <button type="submit" class="btn btn-success">Mettre a jour</button>
+								  <a class="btn btn-default" href="index.php">Annuler</a>
 								</div>
 							</form>
 						</div>

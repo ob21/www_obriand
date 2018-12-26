@@ -3,7 +3,7 @@
 	header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
 	header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date dans le passé
 	 
-    require 'database.php';
+    require 'database.php'; 
  
     if ( !empty($_POST)) {
         // keep track validation errors
@@ -26,7 +26,7 @@
             $valid = false;
         }
          
-        // insert data
+        // delete data
         if ($valid) {
             $pdo = Database::connect();
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -34,9 +34,10 @@
             $q = $pdo->prepare($sql);
             $q->execute(array($name));
             Database::disconnect();
-            header("Location: index.php");
+            header("Location: delete_city.php");
         }
     }
+	
 ?>
 
 <!DOCTYPE html>
@@ -54,11 +55,29 @@
     <div class="container">
      
                 <div class="span10 offset1">
+                
                     <div class="row">
 					<div class="col-md-4">
                         <h3><font color='#FFFFFF'>Supprimer une ville</font></h3>
                     </div>
 					</div>
+                
+                    <div class="row">
+                    <div class="col-md-4">
+					    <?php
+    					    $pdo = Database::connect(); 
+					        $sql = 'SELECT * FROM cities';
+                            $cities = array();
+                            $i = 0;
+                            foreach ($pdo->query($sql) as $row) {										
+	                            $cities[i] = $row['name'];
+	                            echo "<font color='#FFFFFF'>".$cities[i]."</font><br/>"; 
+	                            $i++;				
+                            }
+                            Database::disconnect();					        
+					    ?>
+					</div>
+					</div>				          
              
 					<div class="row">
 					<div class="col-md-4">

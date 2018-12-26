@@ -1,0 +1,20 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1528463992;s:8:"modified";i:1528467105;}s:7:"creator";s:7:"olivier";s:4:"user";s:4:"2103";s:11:"last_change";a:8:{s:4:"date";i:1528467105;s:2:"ip";s:11:"161.106.4.5";s:4:"type";s:1:"E";s:2:"id";s:13:"repas_enfants";s:4:"user";s:4:"2103";s:3:"sum";s:8:"[Repas] ";s:5:"extra";s:0:"";s:10:"sizechange";i:9;}s:11:"contributor";a:13:{i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";i:3;s:7:"olivier";i:4;s:7:"olivier";i:5;s:7:"olivier";i:6;s:7:"olivier";i:7;s:7:"olivier";i:8;s:7:"olivier";i:9;s:7:"olivier";i:10;s:7:"olivier";i:11;s:7:"olivier";i:12;s:7:"olivier";}s:5:"title";s:10:"Activités";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:9:"activites";s:5:"title";s:10:"Activités";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:5:"repas";s:5:"title";s:5:"Repas";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:249:"Activités
+
+meteo: beau
+
+samedi
+
+	*  matin : alma
+	*  aprem : tour de velo
+
+dimanche
+
+	*  matin : jeux maison et saint malo
+	*  aprem : mer à saint malo (prendre seau pelles et un change)
+
+Repas
+
+samedi
+
+	*  samedi midi : galettes jambon fromage
+	*";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1528463992;s:8:"modified";i:1528467105;}s:7:"creator";s:7:"olivier";s:4:"user";s:4:"2103";s:11:"last_change";a:8:{s:4:"date";i:1528467105;s:2:"ip";s:11:"161.106.4.5";s:4:"type";s:1:"E";s:2:"id";s:13:"repas_enfants";s:4:"user";s:4:"2103";s:3:"sum";s:8:"[Repas] ";s:5:"extra";s:0:"";s:10:"sizechange";i:9;}s:11:"contributor";a:13:{i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";i:3;s:7:"olivier";i:4;s:7:"olivier";i:5;s:7:"olivier";i:6;s:7:"olivier";i:7;s:7:"olivier";i:8;s:7:"olivier";i:9;s:7:"olivier";i:10;s:7:"olivier";i:11;s:7:"olivier";i:12;s:7:"olivier";}}}

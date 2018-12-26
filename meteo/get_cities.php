@@ -5,7 +5,7 @@ $pdo = Database::connect();
 $sql = 'SELECT * FROM cities';
 
 foreach ($pdo->query($sql) as $row) {										
-	echo $row['name'].",";				
+	echo $row['name']."<br/>";				
 }
 	
 Database::disconnect();

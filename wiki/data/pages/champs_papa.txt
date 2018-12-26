@@ -1,0 +1,34 @@
+====== Liste des champs et terrain de papa ======
+
+===== champ papa (Le champ de Devant) =====
+
+- 47.9169, -1.6452
+
+===== champ papa (la Renaudais) =====
+
+47.92027, -1.64651
+
+===== champ papa (la petitais, le challonge) =====
+
+47.92241, -1.63732
+
+===== champ papa (le challonge) =====
+
+47.9196, -1.6406
+
+===== champ papa (le chatain) =====
+
+47.90951, -1.62316
+
+===== champ papa (etang) =====
+
+47.95982, -1.61221
+
+===== champ papa (petit étang) =====
+
+47.9618, -1.6113
+
+===== champ papa (cimetiere chanteloup) =====
+
+47.9650, -1.6126
+

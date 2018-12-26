@@ -27,13 +27,21 @@
 		   $pdo = Database::connect();
 		   
 		   $sql = 'SELECT * FROM meteo WHERE city="'.$city.'"';		   
-		   if($param=="max_ete") {
+		   if($param=="max_ete_2017") {
 			   $sql_simple = 'SELECT max(temp) AS simple FROM meteo WHERE city="'.$city.'" AND date>="2017/06/21" AND date<="2017/09/21" AND HOUR(date)="13"';	
 			   $sql = 'SELECT * FROM meteo WHERE city="'.$city.'" AND temp=(SELECT max(temp) FROM meteo WHERE city="'.$city.'" AND date>="2017/06/21" AND date<="2017/09/21" AND HOUR(date)="13") AND date>="2017/06/21" AND date<="2017/09/21" AND HOUR(date)="13"';
 		   }		
-		   if($param=="min_ete") {
+		   if($param=="min_ete_2017") {
 			   $sql_simple = 'SELECT min(temp) AS simple FROM meteo WHERE city="'.$city.'" AND date>="2017/06/21" AND date<="2017/09/21" AND HOUR(date)="13"';	
 			   $sql = 'SELECT * FROM meteo WHERE city="'.$city.'" AND temp=(SELECT min(temp) FROM meteo WHERE city="'.$city.'" AND date>="2017/06/21" AND date<="2017/09/21" AND HOUR(date)="13") AND date>="2017/06/21" AND date<="2017/09/21" AND HOUR(date)="13"';
+		   }	
+		   if($param=="max_ete_2018") {
+			   $sql_simple = 'SELECT max(temp) AS simple FROM meteo WHERE city="'.$city.'" AND date>="2018/06/01" AND date<="2018/09/21" AND HOUR(date)="13"';	
+			   $sql = 'SELECT * FROM meteo WHERE city="'.$city.'" AND temp=(SELECT max(temp) FROM meteo WHERE city="'.$city.'" AND date>="2018/06/01" AND date<="2018/09/21" AND HOUR(date)="13") AND date>="2018/06/01" AND date<="2018/09/21" AND HOUR(date)="13"';
+		   }		
+		   if($param=="min_ete_2018") {
+			   $sql_simple = 'SELECT min(temp) AS simple FROM meteo WHERE city="'.$city.'" AND date>="2018/06/01" AND date<="2018/09/21" AND HOUR(date)="13"';	
+			   $sql = 'SELECT * FROM meteo WHERE city="'.$city.'" AND temp=(SELECT min(temp) FROM meteo WHERE city="'.$city.'" AND date>="2018/06/01" AND date<="2018/09/01" AND HOUR(date)="13") AND date>="2018/06/01" AND date<="2018/09/21" AND HOUR(date)="13"';
 		   }	
 		   //echo $sql;		   
 		   
@@ -53,7 +61,7 @@
 			echo "<font color='#FFFFFF'>".$row['date']."</font>";
 			echo "</td>";
 			echo "<td>";
-			echo "&nbsp;&nbsp;&nbsp;<font color='#FFFFFF'>".$row['temp']." °C ".$row['icon']."</font>";
+			echo "&nbsp;&nbsp;&nbsp;<font color='#FFFFFF'>".$row['temp']." °C"."</font>";
 			echo "</td>";
 			echo "<td>";
 			echo "&nbsp;&nbsp;&nbsp;<img src='http://openweathermap.org/img/w/".$row['icon'].".png'/>";

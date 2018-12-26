@@ -15,25 +15,25 @@
 		$pass = $_POST['pass'];
         $label = $_POST['label'];
         $url = $_POST['url'];
+		$tags = $_POST['tags'];
          
         // validate input
         $valid = true;
         if (empty($label)) {
-            $labelError = 'Please enter a label';
+            $labelError = 'Entrez un label';
             $valid = false;
         }
 		
 		if ($pass!='2103') {
-            $passError = 'Please enter a valid pass';
+            $passError = 'Entrez un mot de passe valide';
             $valid = false;
         }
          
-         
         if (empty($url)) {
-            $urlError = 'Please enter an url';
+            $urlError = 'Entrez une url';
             $valid = false;
         } else if ( !filter_var($url,FILTER_VALIDATE_URL) ) {
-            $urlError = 'Please enter a valid url';
+            $urlError = 'Entrez une url valide';
             $valid = false;
         }
          
@@ -41,9 +41,9 @@
         if ($valid) {
             $pdo = Database::connect();
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            $sql = "INSERT INTO links (label,url) values(?, ?)";
+            $sql = "INSERT INTO links (label,url,tags) values(?, ?, ?)";
             $q = $pdo->prepare($sql);
-            $q->execute(array($label,$url));
+            $q->execute(array($label,$url,strtolower($tags)));
             Database::disconnect();
             header("Location: index.php");
         }
@@ -67,7 +67,7 @@
                 <div class="span10 offset1">
                     <div class="row">
 					<div class="col-md-4">
-                        <h3>Create a link</h3>
+                        <h3>Creer un lien</h3>
                     </div>
 					</div>
              
@@ -87,10 +87,16 @@
 						  <div class="control-group <?php echo !empty($urlError)?'error':'';?>">
 							<label class="control-label">url</label>
 							<div class="controls">
-								<input name="url" type="text" placeholder="url" value="<?php echo !empty($url)?$url:'';?>">
+								<input name="url" type="text" placeholder="url" value="<?php echo !empty($url)?$url:'https://obriand.fr/wiki/doku.php?id=';?>">
 								<?php if (!empty($urlError)): ?>
 									<span class="help-inline"><?php echo $urlError;?></span>
 								<?php endif;?>
+							</div>
+						  </div>
+						  <div class="control-group">
+							<label class="control-label">tags (separes par virgule)</label>
+							<div class="controls">
+								<input name="tags" type="text" placeholder="tags" value="<?php echo !empty($tags)?$tags:'';?>">
 							</div>
 						  </div>
 						  <div class="control-group <?php echo !empty($passError)?'error':'';?>">
@@ -103,8 +109,8 @@
 							</div>
 						  </div>
 						  <div class="form-actions">
-							  <button type="submit" class="btn btn-success">Create</button>
-							  <a class="btn btn-default" href="index.php">Back</a>
+							  <button type="submit" class="btn btn-success">Creer</button>
+							  <a class="btn btn-default" href="index.php">Annuler</a>
 							</div>
 						</form>
 					</div>

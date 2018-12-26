@@ -27,9 +27,13 @@
 		   echo "<b><font color='#FFFFFF'>".$city."</font></b>";
 		   
 		   echo "<b>&nbsp;&nbsp;&nbsp;&nbsp;</b>";
-		   echo "<a href='city_details.php?param=max_ete&city=".$city."'><font color='#FFFFFF'>max jour été</font></a>";
+		   echo "<a href='city_details.php?param=max_ete_2017&city=".$city."'><font color='#FFFFFF'>max jour été 2017</font></a>";
 		   echo "<b>&nbsp;&nbsp;</b>";
-		   echo "<a href='city_details.php?param=min_ete&city=".$city."'><font color='#FFFFFF'>min jour été</font></a>";
+		   echo "<a href='city_details.php?param=min_ete_2017&city=".$city."'><font color='#FFFFFF'>min jour été 2017</font></a>";
+		   echo "<b>&nbsp;&nbsp;</b>";
+		   echo "<a href='city_details.php?param=max_ete_2018&city=".$city."'><font color='#FFFFFF'>max jour été 2018</font></a>";
+		   echo "<b>&nbsp;&nbsp;</b>";
+		   echo "<a href='city_details.php?param=min_ete_2018&city=".$city."'><font color='#FFFFFF'>min jour été 2018</font></a>";
 		   echo "<b>&nbsp;&nbsp;</b>";
 		   
 		   echo "<div class='row'>";	

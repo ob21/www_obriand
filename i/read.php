@@ -39,7 +39,7 @@
                 <div class="span10 offset1">
                     <div class="row">
 						<div class="col-md-4">
-							<h3>Read a link</h3>
+							<h3>Lire un lien</h3>
 						</div>
                     </div>
 					
@@ -48,15 +48,17 @@
 							 
 								<div class="form-horizontal" >
 								  <div class="control-group">
-									<label class="control-label"><?php echo $data['label'];?></label>
+									<label><?php echo $data['label'];?></label>
 								  </div>
 								  <div class="control-group">
 									<label><?php echo $data['url'];?></label>
 								  </div>
-									<div class="form-actions">
-									  <a class="btn btn-default" href="index.php">Back</a>
-								   </div>
-							 
+								  <div class="control-group">
+									<label><?php echo $data['tags'];?></label>
+								  </div>
+								  <div class="form-actions">
+									  <a class="btn btn-default" href="index.php">Retour</a>
+								  </div>							 
 								</div>
 
 						</div>

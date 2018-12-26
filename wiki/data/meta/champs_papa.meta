@@ -1,0 +1,19 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1543236819;s:8:"modified";i:1543237835;}s:7:"creator";s:7:"olivier";s:4:"user";s:4:"2103";s:11:"last_change";a:8:{s:4:"date";i:1543237835;s:2:"ip";s:11:"161.106.4.5";s:4:"type";s:1:"E";s:2:"id";s:11:"champs_papa";s:4:"user";s:4:"2103";s:3:"sum";s:13:"[champ papa] ";s:5:"extra";s:0:"";s:10:"sizechange";i:1;}s:11:"contributor";a:3:{i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";}s:5:"title";s:35:"Liste des champs et terrain de papa";s:11:"description";a:2:{s:15:"tableofcontents";a:9:{i:0;a:4:{s:3:"hid";s:35:"liste_des_champs_et_terrain_de_papa";s:5:"title";s:35:"Liste des champs et terrain de papa";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:29:"champ_papa_le_champ_de_devant";s:5:"title";s:31:"champ papa (Le champ de Devant)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:23:"champ_papa_la_renaudais";s:5:"title";s:25:"champ papa (la Renaudais)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:35:"champ_papa_la_petitais_le_challonge";s:5:"title";s:38:"champ papa (la petitais, le challonge)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:23:"champ_papa_le_challonge";s:5:"title";s:25:"champ papa (le challonge)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:21:"champ_papa_le_chatain";s:5:"title";s:23:"champ papa (le chatain)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:16:"champ_papa_etang";s:5:"title";s:18:"champ papa (etang)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:7;a:4:{s:3:"hid";s:22:"champ_papa_petit_etang";s:5:"title";s:25:"champ papa (petit étang)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:8;a:4:{s:3:"hid";s:31:"champ_papa_cimetiere_chanteloup";s:5:"title";s:33:"champ papa (cimetiere chanteloup)";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:265:"Liste des champs et terrain de papa
+
+champ papa (Le champ de Devant)
+
+- 47.9169, -1.6452
+
+champ papa (la Renaudais)
+
+47.92027, -1.64651
+
+champ papa (la petitais, le challonge)
+
+47.92241, -1.63732
+
+champ papa (le challonge)
+
+47.9196, -1.6406
+
+champ papa (le chatain)";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1543236819;s:8:"modified";i:1543237835;}s:7:"creator";s:7:"olivier";s:4:"user";s:4:"2103";s:11:"last_change";a:8:{s:4:"date";i:1543237835;s:2:"ip";s:11:"161.106.4.5";s:4:"type";s:1:"E";s:2:"id";s:11:"champs_papa";s:4:"user";s:4:"2103";s:3:"sum";s:13:"[champ papa] ";s:5:"extra";s:0:"";s:10:"sizechange";i:1;}s:11:"contributor";a:3:{i:0;s:7:"olivier";i:1;s:7:"olivier";i:2;s:7:"olivier";}}}

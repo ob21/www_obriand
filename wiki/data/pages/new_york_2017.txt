@@ -1,6 +1,14 @@
 **New York 2017**
 
+<html><span style="background:#ffff00">test</span></html>
+
+https://www.skylinewebcams.com/fr/webcam/united-states/new-york/new-york/new-york-skyline.html
+
+[[todo_new_york_2017|todo]]
+
 [[prog_new_york_2017|programme]]
+
+[[bagages_new_york_2017|bagages]]
 
   * __A visiter__
 
@@ -73,7 +81,9 @@ Depuis le 15 août 2012, il est possible de faire des demandes ESTA groupées su
 
   * __Vol aller-retour direct 28 oct - 2 nov__
 
-**Billets achetés** CE Orange Kalidea American Airways 842 euros (dep PAR-CDG 11h, ret NY-JFK 17h15)
+**Parking aéroport CDG** Terminal 2A : 2 à min à pieds 100 euros **OK !** (28/10 à 7h, 03/11 à 7h)
+
+**Billets achetés** CE Orange Kalidea American Airways 842 euros (dep PAR-CDG 11h, ret NY-JFK 17h**45**)
 Boing 767-300, classe eco, repas compris, écran films au plafond (partagé) **numéro de billets d'avion reçus OK** !
 
 Utiliser CE Orange Kalidea voyage : env 650 euros
@@ -104,7 +114,7 @@ Prise courant/usb sur siège
 
 Depuis JFK, Airtrain JFK 5 euros, achat avec Metrocard 
 
-Utiliser un shuttle, le plus économique et qui dépose à l'hotel (21 $)
+Si autre que JFK, utiliser un shuttle, le plus économique et qui dépose à l'hotel (21 $)
 https://www.goairlinkshuttle.com/
 
 ----

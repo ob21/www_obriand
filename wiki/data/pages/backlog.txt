@@ -1,0 +1,14 @@
+- authentification automatique par token à l'ouverture d'un lien
+
+- création de liens de type note (sans wiki)
+
+- stats meteo par ville
+
+- graphs temperature meteo par ville
+
+https://jpgraph.net/features/src/show-example.php?target=new_line1.php
+https://www.numelion.com/creer-un-graphique-en-php.html
+http://www.pchart.net/
+
+
+http://fdwocbsnity6vzwd.onion/

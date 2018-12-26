@@ -1,0 +1,13 @@
+<pre class="file">import requests
+
+url = &quot;https://obriand.fr/data/api.php/records/banqueops&quot;
+
+payload = &quot;{\n\&quot;account\&quot;: \&quot;bqe2\&quot;,\n\&quot;date\&quot;: \&quot;2018-11-23\&quot;,\n\&quot;amount\&quot;: \&quot;12\&quot;,\n\&quot;description\&quot;: \&quot;des3\&quot;,\n\&quot;tags\&quot;: \&quot;tag3,tag4\&quot;\n}&quot;
+headers = {
+    &#039;cache-control&#039;: &quot;no-cache&quot;,
+    &#039;Postman-Token&#039;: &quot;2d8cdca9-07d4-4f98-b2ac-14584cefdccc&quot;
+    }
+
+response = requests.request(&quot;POST&quot;, url, data=payload, headers=headers)
+
+print(response.text)</pre>
